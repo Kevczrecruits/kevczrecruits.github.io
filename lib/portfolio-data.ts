@@ -5,7 +5,7 @@
 export const profile = {
   name: 'Kevin Cruz',
   role: 'Tech & AI-fluent Recruiter',
-  location: 'San Francisco, CA',
+  location: 'Toronto, ON',
   status: 'open to conversations',
   // The big statement shown in the hero.
   statement: 'I connect ambitious people with the teams building the future.',
