@@ -10,7 +10,7 @@ export const profile = {
   // The big statement shown in the hero.
   statement: 'I connect ambitious people with the teams building the future.',
   email: 'kevin.cruz@example.com',
-  resumeUrl: '/resume.pdf', // drop a resume.pdf into /public to enable download
+  resumeUrl: '/resume.docx', // drop a resume.pdf into /public to enable download
   socials: [
     { label: 'github', href: 'https://github.com/kevincruz' },
     { label: 'linkedin', href: 'https://linkedin.com/in/kevincruz' },
@@ -32,8 +32,8 @@ export const interests = {
     'Applied AI & LLM tooling',
     'Developer experience',
     'Open-source communities',
-    'Design systems & typography',
-    'Ambient / Y2K web aesthetics',
+    'Technology research',
+    'Design systems and Aesthetics',
     'Long-form technical writing',
   ],
 }
@@ -105,25 +105,25 @@ export type Experience = {
 
 export const experience: Experience[] = [
   {
-    role: 'Lead Technical Recruiter',
-    company: 'Horizon AI',
-    period: '2023 — present',
+    role: 'Senior Technical Recruiter',
+    company: 'Huawei Technologies',
+    period: '2019 — present',
     summary:
       'Own end-to-end hiring for research & platform engineering. Built the AI-assisted sourcing stack from scratch.',
   },
   {
-    role: 'Senior Recruiter, Engineering',
-    company: 'Nimbus Labs',
-    period: '2021 — 2023',
+    role: 'IT Recruitment Consultant',
+    company: 'Recruiting in Motion',
+    period: '2018 — 2019',
     summary:
-      'Scaled the eng org from 25 to 90 while keeping a 92% offer-accept rate through highly personalized loops.',
+      'Generated ~$250,000 in first-year revenue and grew the candidate pipeline 50%.',
   },
   {
     role: 'Technical Recruiter',
-    company: 'Foundry Collective',
-    period: '2019 — 2021',
+    company: 'Robert Half Technology',
+    period: '2017-2018',
     summary:
-      'Placed early engineers and founding teams across a portfolio of seed-stage startups.',
+      'Sourced and matched IT infrastructure professionals to contract.',
   },
 ]
 
