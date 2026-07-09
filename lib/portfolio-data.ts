@@ -12,7 +12,7 @@ export const profile = {
   email: 'kevczrecruits@gmail.com',
   resumeUrl: '/resume.docx', // drop a resume.pdf into /public to enable download
   socials: [
-    { label: 'github', href: 'https://github.com/kevincruz' },
+    { label: 'github', href: 'https://github.com/Kevczrecruits' },
     { label: 'linkedin', href: 'https://www.linkedin.com/in/kevin-cruz-76b66468' },
     { label: 'are.na', href: 'https://www.are.na/alice-glass' },
   ],
