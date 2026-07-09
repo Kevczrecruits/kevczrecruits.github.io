@@ -30,11 +30,11 @@ export const interests = {
   heading: 'interests',
   items: [
     'Applied AI & LLM tooling',
-    'Developer experience',
+    'Software Engineering',
     'Open-source communities',
     'Technology research',
     'Design systems and Aesthetics',
-    'Long-form technical writing',
+    'Fashion and Culture',
   ],
 }
 
@@ -50,47 +50,47 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: 'TalentGraph',
+    title: 'TalentOS',
     category: 'ai / recruiting',
     description:
-      'An internal LLM-powered pipeline that scores candidate/role fit from raw GitHub activity and job specs.',
-    year: '2025',
+      'An internal LLM-powered talent search engine operated through natural language',
+    year: '2026',
     href: '#',
     size: 'wide',
   },
   {
-    title: 'Loop',
-    category: 'process',
+    title: 'Placeholder Text',
+    category: 'Placeholder Text',
     description:
-      'A lightweight interview-loop framework adopted across 3 engineering orgs to cut time-to-offer by 40%.',
-    year: '2024',
+      'Placeholder Text',
+    year: 'Placeholder Text',
     href: '#',
     size: 'normal',
   },
   {
-    title: 'signal/noise',
-    category: 'writing',
+    title: 'Placeholder Text',
+    category: 'Placeholder Text',
     description:
-      'A newsletter decoding technical hiring for non-technical founders. 6k+ subscribers.',
-    year: '2024',
+      'Placeholder Text',
+    year: 'Placeholder Text',
     href: '#',
     size: 'tall',
   },
   {
-    title: 'DevRel Bridge',
-    category: 'community',
+    title: 'Placeholder Text',
+    category: 'Placeholder Text',
     description:
-      'Placed 20+ developer advocates by embedding in OSS communities instead of cold sourcing.',
-    year: '2023',
+      'Placeholder Text',
+    year: 'Placeholder Text',
     href: '#',
     size: 'normal',
   },
   {
-    title: 'Prompt Studio',
-    category: 'side project',
+    title: 'Placeholder Text',
+    category: 'Placeholder Text',
     description:
-      'A tiny playground for testing recruiting outreach prompts across models. Built with the AI SDK.',
-    year: '2023',
+      'Placeholder Text',
+    year: 'Placeholder Text',
     href: '#',
     size: 'wide',
   },
@@ -109,7 +109,7 @@ export const experience: Experience[] = [
     company: 'Huawei Technologies',
     period: '2019 — present',
     summary:
-      'Own end-to-end hiring for research & platform engineering. Built the AI-assisted sourcing stack from scratch.',
+      'Key architect in growing core R&D teams ~300% over 6 years while cutting average time-to-hire 35% through workflow optimization.',
   },
   {
     role: 'IT Recruitment Consultant',
