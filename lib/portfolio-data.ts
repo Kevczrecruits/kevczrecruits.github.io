@@ -9,11 +9,11 @@ export const profile = {
   status: 'open to conversations',
   // The big statement shown in the hero.
   statement: 'I connect ambitious people with the teams building the future.',
-  email: 'kevin.cruz@example.com',
+  email: 'kevczrecruits@gmail.com',
   resumeUrl: '/resume.docx', // drop a resume.pdf into /public to enable download
   socials: [
     { label: 'github', href: 'https://github.com/kevincruz' },
-    { label: 'linkedin', href: 'https://linkedin.com/in/kevincruz' },
+    { label: 'linkedin', href: 'https://www.linkedin.com/in/kevin-cruz-76b66468' },
     { label: 'are.na', href: 'https://www.are.na/alice-glass' },
   ],
 }
