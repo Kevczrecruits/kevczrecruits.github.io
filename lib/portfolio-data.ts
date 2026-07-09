@@ -55,7 +55,7 @@ export const projects: Project[] = [
     description:
       'An internal LLM-powered talent search engine operated through natural language',
     year: '2026',
-    href: '#',
+    href: 'https://github.com/Kevczrecruits/Talent-OS-',
     size: 'wide',
   },
   {
