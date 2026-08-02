@@ -8,7 +8,7 @@ import { ContactSection } from '@/components/contact-section'
 
 export default function Page() {
   return (
-    <main className="relative min-h-screen bg-white">
+    <main className="relative min-h-screen">
       <AmbientBackground />
       <SiteNav />
       <Hero />
