@@ -2,7 +2,7 @@ import { profile } from '@/lib/portfolio-data'
 
 export function Hero() {
   return (
-    <section id="top" className="mx-auto flex max-w-5xl flex-col items-center px-4 pt-36 text-center sm:pt-44">
+    <section id="top" className="relative z-10 mx-auto flex max-w-5xl flex-col items-center px-4 pt-36 text-center sm:pt-44">
       <p className="font-mono text-xs lowercase tracking-widest text-slate-400">
         {profile.role} · {profile.location}
       </p>
