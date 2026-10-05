@@ -59,12 +59,12 @@ export const projects: Project[] = [
     size: 'wide',
   },
   {
-    title: 'Placeholder Text',
-    category: 'Placeholder Text',
+    title: 'Recruiting Tool Library',
+    category: 'ai / tooling',
     description:
-      'Placeholder Text',
-    year: 'Placeholder Text',
-    href: '#',
+      'A living index of free web software and AI tools for recruiting — searchable, filterable, always growing.',
+    year: '2026',
+    href: 'https://kevczrecruits.github.io/recruiting-tool-library/',
     size: 'normal',
   },
   {
