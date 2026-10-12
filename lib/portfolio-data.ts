@@ -55,7 +55,7 @@ export const projects: Project[] = [
     description:
       'An LLM-powered talent search engine operated through natural language',
     year: '2026',
-    href: 'https://github.com/Kevczrecruits/Talent-OS-',
+    href: 'https://talent-os-theta.vercel.app',
     size: 'wide',
   },
   {
